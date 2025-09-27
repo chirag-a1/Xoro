@@ -1,0 +1,2 @@
+# xoro
+a full-stack trading platform featuring a Flask backend and a React frontend. It provides user authentication, portfolio management, trading operations, AI-powered recommendations, and live market data. The backend handles all API endpoints, database models, and business logic, while the frontend offers a modern UI for trading, analytics, and watchlists. The app is designed for paper trading and analytics, with robust error handling and clear documentation.
